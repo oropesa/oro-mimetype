@@ -1,6 +1,6 @@
 {
   "name": "oro-mimetype",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Class OroMimetype is a wrapper of mmmagic to work as promises async/await.",
   "main": "index.js",
   "scripts": {
