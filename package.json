@@ -1,0 +1,31 @@
+{
+  "name": "oro-mimetype",
+  "version": "1.0.0",
+  "description": "Class OroMimetype is a wrapper of mmmagic to work as promises async/await.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "mimetype",
+    "promise",
+    "async/await"
+  ],
+  "author": "Carlos Oropesa <carlos@oropensando.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oropesa/oro-mimetype.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oropesa/oro-mimetype/issues"
+  },
+  "homepage": "https://github.com/oropesa/oro-mimetype#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "mmmagic": "^0.5.3"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
